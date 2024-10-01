@@ -28,6 +28,12 @@ const App = () => {
       name: "Autumn Vibes",
       artist: "Julia Green",
       added: false
+    },
+    {
+      image: "https://scontent.flyp1-1.fna.fbcdn.net/v/t39.30808-6/436995000_414501091194694_2042142805876255461_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeGdEQSMa4D-m-RWkSVDX6Vx7_lvM5tEKGvv-W8zm0Qoa_8lBbN_oD2hl6AR0RlRxyFZ2jWIrmodZlHbj-ScfnO6&_nc_ohc=VZT1e53hVjIQ7kNvgGzgQ6c&_nc_ht=scontent.flyp1-1.fna&_nc_gid=AUMfupjQtxr3bHVc_629iR9&oh=00_AYBj8VIATR9kWHoFBnhwa4WJtGZDIjgywnyr0rA4Iew0sw&oe=670234D9",
+      name: "Never Sing",
+      artist: "Huzaifa Ehsan",
+      added: false
     }
   ];
 
